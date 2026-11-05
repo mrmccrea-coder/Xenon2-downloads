@@ -22,4 +22,4 @@ AI replies can be wrong. Check anything important.
 
 ## Problems
 
-Email mccreasenterprises@gmail.com with what you typed, what happened, and which model you picked.
+Open an [issue](../../issues) with what you typed, what happened, and which model you picked.
